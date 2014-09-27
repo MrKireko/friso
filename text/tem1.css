@@ -22,3 +22,9 @@ p {
     color: black;
     font-size: 15px;
 }
+
+img {
+    width: 100px;
+    float: right;
+    transform: translate(0, -50);
+}
