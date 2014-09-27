@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: bisque;
+}
+
+#title {
+    font-size: 60px;
+}
+
+p {
+    font-family: cursive;
+    color: darkred;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #a51c1c;
+    font-size: 20px;
+}
+
+a:hover {
+    color: #c73636;
+/*    font-weight: 600;*/
+    font-size: 21px;
+}
+
+#ifr {
+    margin-left: 35%;
+    width: 30%;
+    border: none;
+}
+
+#submit {
+    bottom: 0px;
+    position: fixed;
+    text-align: center;
+    background-color: #d9bb97;
+    padding: 3px;
+    padding-right: 8px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+#submit:hover {
+    background-color: #e3c8a8;
+    color: #a01313;
+    font-size: 20px;
+}

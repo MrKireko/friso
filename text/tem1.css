@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: bisque;
+}
+
+#title {
+    font-size: 22px;
+}
+
+p {
+    font-family: cursive;
+    color: darkred;
+    text-align: justify;
+    font-size: 15px;
+}
+
+#auth {
+    color: black;
+    font-size: 15px;
+}
